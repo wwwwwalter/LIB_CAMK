@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/huge.dir/main.cpp.o  -o huge   -L/home/jetson/jetson/LIB/test_so/libs/add  -L/home/jetson/jetson/LIB/test_so/libs/mul  -Wl,-rpath,/home/jetson/jetson/LIB/test_so/libs/add:/home/jetson/jetson/LIB/test_so/libs/mul:/home/jetson/jetson/LIB/test_so/build/libs/add:/home/jetson/jetson/LIB/test_so/build/libs/mul libs/add/libaddfunc.so libs/mul/libmulfunc.so 

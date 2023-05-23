@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jetson/jetson/LIB/test_a/libadd/add.cpp
+add.h
+/home/jetson/jetson/LIB/test_a/libadd/add.h
+
+/home/jetson/jetson/LIB/test_a/libadd/add.h
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libadd/add.h
+
+../libmul/mul.h
+
+/home/jetson/jetson/LIB/test_so/main.cpp
+iostream
+-
+add.h
+/home/jetson/jetson/LIB/test_so/add.h
+mul.h
+/home/jetson/jetson/LIB/test_so/mul.h
+

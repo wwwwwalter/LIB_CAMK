@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/huge.dir/main.cpp.o  -o huge  libs/add/libaddfunc.a libs/mul/libmulfunc.a 

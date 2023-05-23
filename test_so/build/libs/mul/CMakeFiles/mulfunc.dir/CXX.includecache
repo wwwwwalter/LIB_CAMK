@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jetson/jetson/LIB/test_so/libmul/mul.cpp
+mul.h
+/home/jetson/jetson/LIB/test_so/libmul/mul.h
+
+/home/jetson/jetson/LIB/test_so/libmul/mul.h
+

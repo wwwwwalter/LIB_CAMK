@@ -1,0 +1,9 @@
+/home/jetson/jetson/LIB/test_so/build/CMakeFiles/rebuild_cache.dir
+/home/jetson/jetson/LIB/test_so/build/CMakeFiles/edit_cache.dir
+/home/jetson/jetson/LIB/test_so/build/CMakeFiles/huge.dir
+/home/jetson/jetson/LIB/test_so/build/libs/add/CMakeFiles/rebuild_cache.dir
+/home/jetson/jetson/LIB/test_so/build/libs/add/CMakeFiles/edit_cache.dir
+/home/jetson/jetson/LIB/test_so/build/libs/add/CMakeFiles/addfunc.dir
+/home/jetson/jetson/LIB/test_so/build/libs/mul/CMakeFiles/edit_cache.dir
+/home/jetson/jetson/LIB/test_so/build/libs/mul/CMakeFiles/rebuild_cache.dir
+/home/jetson/jetson/LIB/test_so/build/libs/mul/CMakeFiles/mulfunc.dir
